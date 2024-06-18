@@ -1,0 +1,201 @@
+﻿classification,sector
+"Agriculture, hunting and forestry",Paddy rice
+"Agriculture, hunting and forestry",Wheat
+"Agriculture, hunting and forestry",Cereal grains nec
+"Agriculture, hunting and forestry","Vegetables, fruit, nuts"
+"Agriculture, hunting and forestry",Oil seeds
+"Agriculture, hunting and forestry","Sugar cane, sugar beet"
+"Agriculture, hunting and forestry",Plant-based fibers
+"Agriculture, hunting and forestry",Crops nec
+"Agriculture, hunting and forestry",Cattle
+"Agriculture, hunting and forestry",Pigs
+"Agriculture, hunting and forestry",Poultry
+"Agriculture, hunting and forestry",Meat animals nec
+"Agriculture, hunting and forestry",Animal products nec
+"Agriculture, hunting and forestry",Raw milk
+"Agriculture, hunting and forestry","Wool, silk-worm cocoons"
+"Agriculture, hunting and forestry",Manure (conventional treatment)
+"Agriculture, hunting and forestry",Manure (biogas treatment)
+"Agriculture, hunting and forestry","Products of forestry, logging and related services (02)"
+Fishing,Fish and other fishing products; services incidental of fishing (05)
+Mining and quarrying,Anthracite
+Mining and quarrying,Coking Coal
+Mining and quarrying,Other Bituminous Coal
+Mining and quarrying,Sub-Bituminous Coal
+Mining and quarrying,Patent Fuel
+Mining and quarrying,Lignite/Brown Coal
+Mining and quarrying,BKB/Peat Briquettes
+Mining and quarrying,Peat
+Mining and quarrying,"Crude petroleum and services related to crude oil extraction, excluding surveying"
+Mining and quarrying,"Natural gas and services related to natural gas extraction, excluding surveying"
+Mining and quarrying,Natural Gas Liquids
+Mining and quarrying,Other Hydrocarbons
+Mining and quarrying,Uranium and thorium ores (12)
+Mining and quarrying,Iron ores
+Mining and quarrying,Copper ores and concentrates
+Mining and quarrying,Nickel ores and concentrates
+Mining and quarrying,Aluminium ores and concentrates
+Mining and quarrying,Precious metal ores and concentrates
+Mining and quarrying,"Lead, zinc and tin ores and concentrates"
+Mining and quarrying,Other non-ferrous metal ores and concentrates
+Mining and quarrying,Stone
+Mining and quarrying,Sand and clay
+Mining and quarrying,"Chemical and fertilizer minerals, salt and other mining and quarrying products n.e.c."
+Manufacturing,Products of meat cattle
+Manufacturing,Products of meat pigs
+Manufacturing,Products of meat poultry
+Manufacturing,Meat products nec
+Manufacturing,products of Vegetable oils and fats
+Manufacturing,Dairy products
+Manufacturing,Processed rice
+Manufacturing,Sugar
+Manufacturing,Food products nec
+Manufacturing,Beverages
+Manufacturing,Fish products
+Manufacturing,Tobacco products (16)
+Manufacturing,Textiles (17)
+Manufacturing,Wearing apparel; furs (18)
+Manufacturing,Leather and leather products (19)
+Manufacturing,Wood and products of wood and cork (except furniture); articles of straw and plaiting materials (20)
+Manufacturing,"Wood material for treatment, Re-processing of secondary wood material into new wood material"
+Manufacturing,Pulp
+Manufacturing,"Secondary paper for treatment, Re-processing of secondary paper into new pulp"
+Manufacturing,Paper and paper products
+Manufacturing,Printed matter and recorded media (22)
+Manufacturing,Coke Oven Coke
+Manufacturing,Gas Coke
+Manufacturing,Coal Tar
+Manufacturing,Motor Gasoline
+Manufacturing,Aviation Gasoline
+Manufacturing,Gasoline Type Jet Fuel
+Manufacturing,Kerosene Type Jet Fuel
+Manufacturing,Kerosene
+Manufacturing,Gas/Diesel Oil
+Manufacturing,Heavy Fuel Oil
+Manufacturing,Refinery Gas
+Manufacturing,Liquefied Petroleum Gases (LPG)
+Manufacturing,Refinery Feedstocks
+Manufacturing,Ethane
+Manufacturing,Naphtha
+Manufacturing,White Spirit & SBP
+Manufacturing,Lubricants
+Manufacturing,Bitumen
+Manufacturing,Paraffin Waxes
+Manufacturing,Petroleum Coke
+Manufacturing,Non-specified Petroleum Products
+Manufacturing,Nuclear fuel
+Manufacturing,"Plastics, basic"
+Manufacturing,"Secondary plastic for treatment, Re-processing of secondary plastic into new plastic"
+Manufacturing,N-fertiliser
+Manufacturing,P- and other fertiliser
+Manufacturing,Chemicals nec
+Manufacturing,Charcoal
+Manufacturing,Additives/Blending Components
+Manufacturing,Biogasoline
+Manufacturing,Biodiesels
+Manufacturing,Other Liquid Biofuels
+Manufacturing,Rubber and plastic products (25)
+Manufacturing,Glass and glass products
+Manufacturing,"Secondary glass for treatment, Re-processing of secondary glass into new glass"
+Manufacturing,Ceramic goods
+Manufacturing,"Bricks, tiles and construction products, in baked clay"
+Manufacturing,"Cement, lime and plaster"
+Manufacturing,"Ash for treatment, Re-processing of ash into clinker"
+Manufacturing,Other non-metallic mineral products
+Manufacturing,Basic iron and steel and of ferro-alloys and first products thereof
+Manufacturing,"Secondary steel for treatment, Re-processing of secondary steel into new steel"
+Manufacturing,Precious metals
+Manufacturing,"Secondary preciuos metals for treatment, Re-processing of secondary preciuos metals into new preciuos metals"
+Manufacturing,Aluminium and aluminium products
+Manufacturing,"Secondary aluminium for treatment, Re-processing of secondary aluminium into new aluminium"
+Manufacturing,"Lead, zinc and tin and products thereof"
+Manufacturing,"Secondary lead for treatment, Re-processing of secondary lead into new lead"
+Manufacturing,Copper products
+Manufacturing,"Secondary copper for treatment, Re-processing of secondary copper into new copper"
+Manufacturing,Other non-ferrous metal products
+Manufacturing,"Secondary other non-ferrous metals for treatment, Re-processing of secondary other non-ferrous metals into new other non-ferrous metals"
+Manufacturing,Foundry work services
+Manufacturing,"Fabricated metal products, except machinery and equipment (28)"
+Manufacturing,Machinery and equipment n.e.c. (29)
+Manufacturing,Office machinery and computers (30)
+Manufacturing,Electrical machinery and apparatus n.e.c. (31)
+Manufacturing,"Radio, television and communication equipment and apparatus (32)"
+Manufacturing,"Medical, precision and optical instruments, watches and clocks (33)"
+Manufacturing,"Motor vehicles, trailers and semi-trailers (34)"
+Manufacturing,Other transport equipment (35)
+Manufacturing,Furniture; other manufactured goods n.e.c. (36)
+Manufacturing,Secondary raw materials
+Manufacturing,"Bottles for treatment, Recycling of bottles by direct reuse"
+"Electricity, gas and water supply",Electricity by coal
+"Electricity, gas and water supply",Electricity by gas
+"Electricity, gas and water supply",Electricity by nuclear
+"Electricity, gas and water supply",Electricity by hydro
+"Electricity, gas and water supply",Electricity by wind
+"Electricity, gas and water supply",Electricity by petroleum and other oil derivatives
+"Electricity, gas and water supply",Electricity by biomass and waste
+"Electricity, gas and water supply",Electricity by solar photovoltaic
+"Electricity, gas and water supply",Electricity by solar thermal
+"Electricity, gas and water supply","Electricity by tide, wave, ocean"
+"Electricity, gas and water supply",Electricity by Geothermal
+"Electricity, gas and water supply",Electricity nec
+"Electricity, gas and water supply",Transmission services of electricity
+"Electricity, gas and water supply",Distribution and trade services of electricity
+"Electricity, gas and water supply",Coke oven gas
+"Electricity, gas and water supply",Blast Furnace Gas
+"Electricity, gas and water supply",Oxygen Steel Furnace Gas
+"Electricity, gas and water supply",Gas Works Gas
+"Electricity, gas and water supply",Biogas
+"Electricity, gas and water supply",Distribution services of gaseous fuels through mains
+"Electricity, gas and water supply",Steam and hot water supply services
+"Electricity, gas and water supply","Collected and purified water, distribution services of water (41)"
+Construction,Construction work (45)
+Construction,"Secondary construction material for treatment, Re-processing of secondary construction material into aggregates"
+Wholesale and retail trade,"Sale, maintenance, repair of motor vehicles, motor vehicles parts, motorcycles, motor cycles parts and accessoiries"
+Wholesale and retail trade,Retail trade services of motor fuel
+Wholesale and retail trade,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)"
+Wholesale and retail trade,"Retail trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)"
+Hotels and restaurants,Hotel and restaurant services (55)
+"Transport, storage and communications",Railway transportation services
+"Transport, storage and communications",Other land transportation services
+"Transport, storage and communications",Transportation services via pipelines
+"Transport, storage and communications",Sea and coastal water transportation services
+"Transport, storage and communications",Inland water transportation services
+"Transport, storage and communications",Air transport services (62)
+"Transport, storage and communications",Supporting and auxiliary transport services; travel agency services (63)
+"Transport, storage and communications",Post and telecommunication services (64)
+Financial intermediation,"Financial intermediation services, except insurance and pension funding services (65)"
+Financial intermediation,"Insurance and pension funding services, except compulsory social security services (66)"
+Financial intermediation,Services auxiliary to financial intermediation (67)
+"Real estate, renting and business activities",Real estate services (70)
+"Real estate, renting and business activities",Renting services of machinery and equipment without operator and of personal and household goods (71)
+"Real estate, renting and business activities",Computer and related services (72)
+"Real estate, renting and business activities",Research and development services (73)
+"Real estate, renting and business activities",Other business services (74)
+Public administration and defence,Public administration and defence services; compulsory social security services (75)
+Education,Education services (80)
+Health and social work,Health and social work services (85)
+"Other community, social and personal service activities",Food waste for treatment: incineration
+"Other community, social and personal service activities",Paper waste for treatment: incineration
+"Other community, social and personal service activities",Plastic waste for treatment: incineration
+"Other community, social and personal service activities",Intert/metal waste for treatment: incineration
+"Other community, social and personal service activities",Textiles waste for treatment: incineration
+"Other community, social and personal service activities",Wood waste for treatment: incineration
+"Other community, social and personal service activities",Oil/hazardous waste for treatment: incineration
+"Other community, social and personal service activities",Food waste for treatment: biogasification and land application
+"Other community, social and personal service activities",Paper waste for treatment: biogasification and land application
+"Other community, social and personal service activities",Sewage sludge for treatment: biogasification and land application
+"Other community, social and personal service activities",Food waste for treatment: composting and land application
+"Other community, social and personal service activities",Paper and wood waste for treatment: composting and land application
+"Other community, social and personal service activities",Food waste for treatment: waste water treatment
+"Other community, social and personal service activities",Other waste for treatment: waste water treatment
+"Other community, social and personal service activities",Food waste for treatment: landfill
+"Other community, social and personal service activities",Paper for treatment: landfill
+"Other community, social and personal service activities",Plastic waste for treatment: landfill
+"Other community, social and personal service activities",Inert/metal/hazardous waste for treatment: landfill
+"Other community, social and personal service activities",Textiles waste for treatment: landfill
+"Other community, social and personal service activities",Wood waste for treatment: landfill
+"Other community, social and personal service activities",Membership organisation services n.e.c. (91)
+"Other community, social and personal service activities","Recreational, cultural and sporting services (92)"
+"Other community, social and personal service activities",Other services (93)
+Private households with employed persons,Private households with employed persons (95)
+Extra-territorial organizations and bodies,Extra-territorial organizations and bodies

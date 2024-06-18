@@ -1,0 +1,11 @@
+Code,Product,ICEV,PHEV,BEV,FCEV
+67,Motor Gasoline,0.000340053,0.000101006,,
+128,Electricity by coal,,2.70948E-05,6.54453E-05,
+129,Electricity by gas,,3.44008E-05,8.30923E-05,
+130,Electricity by nuclear,,3.37654E-06,8.15575E-06,
+131,Electricity by hydro,,7.62832E-06,1.84256E-05,
+132,Electricity by wind,,7.81567E-07,1.88781E-06,
+133,Electricity by petroleum and other oil derivatives,,2.77822E-06,6.71055E-06,
+134,Electricity by biomass and waste,,3.99651E-06,9.65325E-06,
+135,Electricity by solar photovoltaic,,6.89105E-06,1.66448E-05,
+138,Electricity by Geothermal,,2.60689E-07,6.29673E-07,
